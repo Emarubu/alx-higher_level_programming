@@ -1,3 +1,5 @@
 #!/usr/bin/python3
-def pow(a, b):
-    return(a ** b)
+import__('12-fizzbuzz').fizzbuzz
+
+fizzbuzz()
+print("")return(a ** b)
