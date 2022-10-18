@@ -1,0 +1,3 @@
+
+n - Everything is object
+
